@@ -74,15 +74,13 @@ def options():
    
 options()
 
-Getting Started
 
-Clone the repository:
-
-git clone https://github.com/your-username/library-management-system.git
-cd library-management-system
 Run the Python script:
+
 python library_management_system.py
+
 Sample Output
+
 vbnet
 
 Skill circle library system
@@ -96,6 +94,8 @@ Do you want to continue
 Yes-1 No-2
 Choose any number from 1 to 2::2
 Thanks for visiting skill circle
+
+
 
 License
 This project is open-source and available under the MIT License.
